@@ -1,0 +1,246 @@
+[
+    {
+      "id": 1,
+      "bird_name": "דרור הבית",
+      "scientific_name": "Passer domesticus",
+      "ring": "AB",
+      "image": "images/house sparrow.jpg"
+    },
+    {
+      "id": 2,
+      "bird_name": "שחפית שחורת מקור",
+      "scientific_name": "Sterna sandvicensis",
+      "ring": "C",
+      "image": "images/sandwich tern.jpg"
+    },
+    {
+      "id": 3,
+      "bird_name": "תפר",
+      "scientific_name": "Cisticola juncidis",
+      "ring": "X",
+      "image": "images/zitting.jpg"
+    },
+    {
+      "id": 4,
+      "bird_name": "תור מצוי",
+      "scientific_name": "Streptopelia turtur",
+      "ring": "EE",
+      "image": "images/turtel dove.jpg"
+    },
+    {
+      "id": 5,
+      "bird_name": "סבכי ניצי",
+      "scientific_name": "Curruca nisoria",
+      "ring": "FF",
+      "image":"images/barred warbler.jpg"
+    },
+    {
+      "id": 6,
+      "bird_name": "אדום-חזה",
+      "scientific_name": "Erithacus rubecula",
+      "ring": "x",
+      "image":"images/robin.jpg"
+    },
+    {
+      "id": 7,
+      "bird_name": "סנונית רפתות",
+      "scientific_name": "Hirundo rustica",
+      "ring": "x",
+      "image": "images/barn swallow.jpg"
+    },
+    {
+      "id": 8,
+      "bird_name": "שרקרק מצוי",
+      "scientific_name": "Merops apiaster",
+      "ring": "C",
+      "image": "images/beeeater.jpg"
+    },
+    {
+        "id": 9,
+        "bird_name": "שלדג גמדי",
+        "scientific_name": "Alcedo atthis",
+        "ring": "BB",
+        "image": "images/1000106587.jpg" 
+    },
+    {
+        "id": 10,
+        "bird_name": "כחול חזה",
+        "scientific_name": "Luscinia svecica",
+        "ring": "X",
+        "image": "images/WhatsApp Image 2024-02-08 at 18.00.10.jpeg"
+      },
+      {
+        "id": 11,
+        "bird_name": "חרגולן זמירי",
+        "scientific_name": "Upupa epops",
+        "ring": "X",
+        "image": "images/savi's warbler.jpeg" 
+    },
+      {
+        "id": 12,
+        "bird_name": "קנית אורז",
+        "scientific_name": "Acrocephalus agricola",
+        "ring": "X",
+        "image": "images/paddyfield warbler2.jpeg"
+      },
+      {
+        "id": 13,
+        "bird_name": "בולבול ממושקף",
+        "scientific_name": "Pycnonotus xanthopygos",
+        "ring": "CC",
+        "image": "images/bulbul.jpg"
+      },
+      {
+        "id": 14,
+        "bird_name": "עלווית חורף",
+        "scientific_name": "Phylloscopus collybita",
+        "ring": "R",
+        "image": "images/chifchaf.jpg"
+      },
+      {
+        "id": 15,
+        "bird_name": "קנית בצרה",
+        "scientific_name": "Acrocephalus griseldis",
+        "ring": "BG",
+        "image":"images/a ringing bird.jpeg"
+      },
+      {
+        "id": 16,
+        "bird_name": "סבכי טוחנים",
+        "scientific_name": "Curruca curruca",
+        "ring": "X",
+        "image":"images/lesser whitethroat.jpg"
+      },
+      {
+        "id": 17,
+        "bird_name": "גיבתון סוף",
+        "scientific_name": "Emberiza schoeniclus",
+        "ring": "V",
+        "image": "images/IMG_20231201_110315.jpg"
+      },
+      {
+        "id": 18,
+        "bird_name": "עלווית אפורה",
+        "scientific_name": "Phylloscopus trochilus",
+        "ring": "R",
+        "image": "images/IMG_20230901_103151.jpg"
+      },
+      {
+        "id": 19,
+        "bird_name": "קנית אירופית",
+        "scientific_name": "Acrocephalus arundinaceus",
+        "ring": "AB",
+        "image": "images/1000056015.jpg" 
+    },
+    {
+        "id": 20,
+        "bird_name": "סבכי קפריסאי",
+        "scientific_name": "Curruca melanothorax",
+        "ring": "X",
+        "image": "images/cyprus warbler.jpg" 
+    },
+    {
+        "id": 21,
+        "bird_name": "פפיון אדום גרון",
+        "scientific_name": "Anthus cervinus",
+        "ring": "X",
+        "image": "images/1000183335.jpg"
+      },
+      {
+        "id": 22,
+        "bird_name": "אנפית סוף",
+        "scientific_name": "Ardeola ralloides",
+        "ring": "F",
+        "image": "images/IMG_20230922_072929.jpg"
+      },
+      {
+        "id": 23,
+        "bird_name": "נחליאלי צהוב",
+        "scientific_name": "Motacilla flava",
+        "ring": "X",
+        "image": "images/yellow wagetail.jpg"
+      },
+      {
+        "id": 24,
+        "bird_name": "עלווית לבנת בטן",
+        "scientific_name": "Phylloscopus orientalis",
+        "ring": "R",
+        "image": "images/1000106589.jpg"
+      },
+      {
+        "id": 25,
+        "bird_name": "רמית",
+        "scientific_name": "Remiz pendulinus",
+        "ring": "X",
+        "image":" images/.IMG-20231118-WA0002.jpg"
+      },
+      {
+        "id": 26,
+        "bird_name": "קנית פסים",
+        "scientific_name": "Acrocephalus schoenobaenus",
+        "ring": "X",
+        "image":" images/sage_warbler.jpg"
+      },
+      {
+        "id": 27,
+        "bird_name": "ירקון",
+        "scientific_name": "Chloris chloris",
+        "ring": "V",
+        "image": "images/finch.jpg"
+      },
+      {
+        "id": 28,
+        "bird_name": "חוחית",
+        "scientific_name": "Upupa epops",
+        "ring": "X",
+        "image": "images/IMG_20230714_070522.jpg"
+      },
+      {
+          "id": 29,
+          "bird_name": "חנקן אדום גב",
+          "scientific_name": "Lanius collurio",
+          "ring": "AB",
+          "image": "images/red backed shrike.jpeg" 
+      },
+      {
+          "id": 30,
+          "bird_name": "חורפי",
+          "scientific_name": "Spinus spinus",
+          "ring": "V",
+          "image": "images/siskin.jpg"
+        }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

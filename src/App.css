@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Noto+Rashi+Hebrew:wght@300&display=swap');
+
+body{
+  margin: 0;
+  background: rgb(113, 131, 146);
+  direction: rtl !important;
+  overflow-x: hidden !important;
+}
+.title{
+  text-shadow: 5px -1px 6px rgba(238,134,22,0.877);
+}
+/* .container-fluid{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  direction: rtl !important;
+} */
+.carusH{
+  height: 55%;
+  width: 65%;
+}
+/* .spaseCarusel{
+  height: 400px;
+}
+main{
+  min-height: 800px;  
+  background: rgb(113, 131, 146);  
+} */
+.na:hover{
+  text-decoration: underline;
+}
+
+.pAbout{
+  width: 800px;
+  min-height: 410px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.stripBGAbout{
+  margin: 0 auto;
+/* background-image: url("../public/images/IMG_20230331_102515.jpg"); */
+background-image: url("../public/images/jbo.jpg");
+background-position: center;
+background-size: cover;
+min-height: 500px;
+}
+footer{
+  min-height: 40px;
+  padding: 4px;
+  text-decoration: none;   
+}
+.box1{
+  ul {
+      list-style: none; 
+      padding: 0; 
+  }
+
+  li {
+      margin-bottom: 2px; 
+  } 
+}
+.active{
+  color: rgba(255, 193, 0, 0.79) !important ;
+}
+.activeBtnPagination{
+  color:white;
+  background: rgb(113, 131, 146) ;
+}
+.fontGallery{
+  font-family: 'Amatic SC', sans-serif;
+  text-shadow: 5px -1px 6px rgba(255, 193, 0, 0.79);
+}
+.card-hover-zoom{
+  vertical-align: middle;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  transition:  transform .3s ease;
+}
+.card-hover-zoom:hover{
+  transform: scale(1.2);
+}
+.infoAB{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.leaflet-container{
+  width: 60%;
+  height: 250px;
+}
+.mapsize{
+  height: 300px;
+}
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  position: relative;
+  border: 1px solid  rgba(238, 134, 22, 0.877); 
+  transition:  transform .5s ease;
+  
+}
+.box:hover{
+  transform:scale(1.1);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
